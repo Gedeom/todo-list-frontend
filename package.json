@@ -8,10 +8,16 @@
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
   },
   "dependencies": {
+    "@mdi/font": "^7.0.96",
+    "axios": "^0.27.2",
+    "moment": "^2.29.4",
     "vue": "^2.7.7",
     "vue-router": "^3.5.4",
-    "axios": "^0.27.2",
-    "vuex": "^3.6.2"
+    "vue-sweetalert2": "^5.0.5",
+    "vuetify": "^2.6.9",
+    "vuex": "^3.6.2",
+    "sortablejs": "^1.15.0",
+    "vuedraggable":"^2.24.3"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.1.0",
